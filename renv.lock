@@ -70,6 +70,26 @@
         "R"
       ],
       "Hash": "470851b6d5d0ac559e9d01bb352b4021"
-    }
+    },
+    "R7": {
+      "Package": "R7",
+      "Version": "2.5.1",
+      "Source": "Local",
+      "Repository": "TEST",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "R8": {
+      "Package": "R8",
+      "Version": "2.5.1",
+      "Source": "CRAN",
+      "Repository": "TEST",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
   }
 }
