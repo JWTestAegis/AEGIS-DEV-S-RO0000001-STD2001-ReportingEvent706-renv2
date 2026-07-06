@@ -84,8 +84,8 @@
     "R8": {
       "Package": "R8",
       "Version": "2.5.1",
-      "Source": "CRAN",
-      "Repository": "TEST",
+      "Source": "Repository",
+      "Repository": "CRAN",
       "Requirements": [
         "R"
       ],
