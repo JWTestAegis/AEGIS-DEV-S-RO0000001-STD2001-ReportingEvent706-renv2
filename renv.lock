@@ -90,6 +90,16 @@
         "R"
       ],
       "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "R9": {
+      "Package": "R9",
+      "Version": "2.5.1",
+      "Source": "Repository",
+      "Repository": "renv",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
     }
   }
 }
