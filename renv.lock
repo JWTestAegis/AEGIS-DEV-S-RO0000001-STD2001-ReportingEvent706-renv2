@@ -1,0 +1,75 @@
+{
+  "R": {
+    "Version": "4.5.1",
+    "Repositories": [
+      {
+        "Name": "TEST",
+        "URL": "https://aegisrspm.akaws-r-alb.onecloudlabo.com/cran-snapshot-20251216/latest"
+      }, 
+      {
+        "Name": "INHOUSE",
+        "URL": "https://aegisrspm.aegis-web-dev.tcci-int.chugai-pharm.co.jp/aegis-R4.5.1-dev/__linux__/noble/latest"
+      }
+    ]
+  },
+  "Packages": {
+    "R1": {
+      "Package": "R1",
+      "Version": "2.5.1",
+      "Source": "Repository",
+      "Repository": "TEST1",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "R2": {
+      "Package": "R2",
+      "Version": "2.5.1",
+      "Source": "Repository",
+      "Repository": "INHOUSE",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "R3": {
+      "Package": "R3",
+      "Version": "2.5.1",
+      "Source": "Repository",
+      "Repository": "https://aegisrspm.com",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "R4": {
+      "Package": "R4",
+      "Version": "2.5.1",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    },
+    "R5": {
+      "Package": "R5",
+      "Version": "2.5.1",
+      "Source": "Repository",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    }
+    ,
+    "R6": {
+      "Package": "R6",
+      "Version": "2.5.1",
+      "Source": "Repository",
+      "Repository": "https://1aegisrspm.com",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "470851b6d5d0ac559e9d01bb352b4021"
+    }
+  }
+}
