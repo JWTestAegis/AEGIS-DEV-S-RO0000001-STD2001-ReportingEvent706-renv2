@@ -91,11 +91,11 @@
       ],
       "Hash": "470851b6d5d0ac559e9d01bb352b4021"
     },
-    "R9": {
-      "Package": "R9",
+    "renv": {
+      "Package": "renv",
       "Version": "2.5.1",
       "Source": "Repository",
-      "Repository": "renv",
+      "Repository": "CRAN",
       "Requirements": [
         "R"
       ],
